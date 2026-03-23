@@ -1,0 +1,6 @@
+{
+  "minutemind": {
+    "type": "http",
+    "url": "https://backend.minutemind.co/mcp/"
+  }
+}
