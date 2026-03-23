@@ -1,5 +1,6 @@
 {
   "name": "minutemind",
   "description": "MinuteMind MCP — meetings, tasks, documents, and knowledge base.",
+  "version": "1.0.0",
   "author": { "name": "MinuteMind" }
 }
