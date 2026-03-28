@@ -1,6 +1,8 @@
 {
-  "minutemind": {
-    "type": "http",
-    "url": "https://backend.minutemind.co/mcp/"
+  "mcpServers": {
+    "minutemind": {
+      "type": "http",
+      "url": "https://backend.minutemind.co/mcp/"
+    }
   }
 }
